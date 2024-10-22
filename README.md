@@ -1,5 +1,7 @@
 # Hop-up tracer for Maxx M4P - PRO hop up
 
+![Hop Up Tracer](./Photos/6.jpg "Hop Up Tracer")
+
 ## Introduction
 
 While I was shopping for Maxx M4P - PRO, official website teased us with possibility of buying tracer upgrade for this hop up. Unfortunately even a few years later, there is no such offer on their official website and tracer units from other models don't seem to fit. So I decided to make my own and open source it.
